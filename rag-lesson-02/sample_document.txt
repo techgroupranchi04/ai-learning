@@ -1,0 +1,6 @@
+Python is a programming language used for automation and AI.
+RAG stands for Retrieval-Augmented Generation.
+RAG helps language models answer questions using external documents.
+Embeddings represent text as numerical vectors.
+Vector databases store embeddings and support similarity search.
+Chunking divides large documents into smaller pieces.
